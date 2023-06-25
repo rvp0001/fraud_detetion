@@ -15,4 +15,5 @@ def model3():
     print('model 3')
 
 
-print('model 2 is best')
+print('model 2 is best ')
+print('model 3 is best ')
